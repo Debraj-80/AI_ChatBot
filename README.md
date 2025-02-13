@@ -21,6 +21,18 @@ An AI-powered chatbot application developed using **Express.js** for the backend
 - Thorough API testing using Postman.  
 
 ---
+## 🧪 Testing with Postman  
+- Import the provided **Postman collection** to test API endpoints.  
+- Verify request and response flow for chatbot interactions.
+
+---
+## 🔥 How It Works  
+- Users interact with the chatbot via a simple HTML frontend.  
+- User inputs are sent to the Express.js backend.  
+- The backend processes inputs, utilizes integrated APIs, and generates intelligent responses.  
+- Conversations are stored in MongoDB for future reference.  
+
+
 
 ## 📁 Project Structure  
 
@@ -48,24 +60,14 @@ An AI-powered chatbot application developed using **Express.js** for the backend
 - `POST /api/chatbot/message`: Handles user messages and returns chatbot responses.  
 - `GET /api/chatbot/history`: Retrieves conversation history from MongoDB.  
 
----
-
-## 🧪 Testing with Postman  
-- Import the provided **Postman collection** to test API endpoints.  
-- Verify request and response flow for chatbot interactions.  
 
 ---
 
-## 🔥 How It Works  
-- Users interact with the chatbot via a simple HTML frontend.  
-- User inputs are sent to the Express.js backend.  
-- The backend processes inputs, utilizes integrated APIs, and generates intelligent responses.  
-- Conversations are stored in MongoDB for future reference.  
 
 
 ---
 
 ## 📞 Contact  
 For any questions or feedback, feel free to reach out:  
-- **GitHub**: [YourUsername](https://github.com/YourUsername)  
+- **GitHub**: [Debraj-80](https://github.com/Debraj-80)
 - **Email**: debrajsaha2001@gmail.com 
